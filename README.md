@@ -1,29 +1,29 @@
-½ºÇÁ¸µ ÇĞ½À ¿¹Á¦
+ìŠ¤í”„ë§ í•™ìŠµ ì˜ˆì œ
 =============
 
-## ºê·£Ä¡
-¾Æ·¡ ¸í·É¾î¸¦ ½ÇÇàÇØ¼­ ¼Ò½º¸¦ °¡Á®¿Ã ¼ö ÀÖ½À´Ï´Ù.
+## ë¸Œëœì¹˜
+ì•„ë˜ ëª…ë ¹ì–´ë¥¼ ì‹¤í–‰í•´ì„œ ì†ŒìŠ¤ë¥¼ ê°€ì ¸ì˜¬ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
-### master - ÇöÀç º¸´Â ¹®¼­ + ±âº» ¸ŞÀÌºì ÇÁ·ÎÁ§Æ® »ı¼º
-'''
+### master - í˜„ì¬ ë³´ëŠ” ë¬¸ì„œ + ê¸°ë³¸ ë©”ì´ë¸ í”„ë¡œì íŠ¸ ìƒì„±
+~~~
 git clone -b master https://github.com/progh2/greeter.git
-'''
-¶Ç´Â
-'''
+~~~
+ë˜ëŠ”
+~~~
 git clone https://github.com/progh2/greeter.git
-'''
+~~~
 
-### master01 - ÀÚ¹Ù½ºÅ¸ÀÏ·Î °´Ã¼ »ı¼ºÇÏ±â #01
-'''
+### master01 - ìë°”ìŠ¤íƒ€ì¼ë¡œ ê°ì²´ ìƒì„±í•˜ê¸° #01
+~~~
 git clone -b master01 https://github.com/progh2/greeter.git
-'''
+~~~
 
-### master02 - XML ¼³Á¤ÆÄÀÏÀ» ÀÌ¿ëÇÏ¿© ÀÇÁ¸ ÁÖÀÔ(DI) #02
-'''
+### master02 - XML ì„¤ì •íŒŒì¼ì„ ì´ìš©í•˜ì—¬ ì˜ì¡´ ì£¼ì…(DI) #02
+~~~
 git clone -b master02 https://github.com/progh2/greeter.git
-'''
+~~~
 
-### master03-  Java AnnotationÀ» ÀÌ¿ëÇÏ¿© ÀÇÁ¸ ÁÖÀÔ(DI) #03
-'''
+### master03-  Java Annotationì„ ì´ìš©í•˜ì—¬ ì˜ì¡´ ì£¼ì…(DI) #03
+~~~
 git clone -b master03 https://github.com/progh2/greeter.git
-'''
+~~~
